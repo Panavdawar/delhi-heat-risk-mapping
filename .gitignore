@@ -1,0 +1,19 @@
+
+.venv/
+venv/
+
+
+data/raw/
+*.nc
+
+
+.ipynb_checkpoints/
+
+
+.DS_Store
+
+
+*.log
+
+# Generated artifacts
+outputs/models/
